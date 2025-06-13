@@ -1,1 +1,1 @@
-# CICD DemoApp
+# CICD DemoApp Java
